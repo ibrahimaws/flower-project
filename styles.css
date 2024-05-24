@@ -26,6 +26,7 @@ section{
     padding: 1rem;
     margin: 2rem 0;
     background: rgba(255,51,153,.05);
+    
 }
 .heading span{
     color: rgba(255, 3, 162, 0.927);;
@@ -58,6 +59,8 @@ header{
     justify-content: space-between;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
     padding: 1.5rem 9%;
+    position:sticky;
+    z-index:5;
 }
 
 header .logo{
@@ -110,7 +113,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url("pink-flowers.avif");
+    background: url("Assets/pink-flowers.avif");
     background-size: cover;
     background-position: center;
 }
@@ -443,7 +446,7 @@ header .fa-bars{
 
 /* media-queries */
 
-@media (min-width:320px) and (max-width:480px){
+@media only screen and (max-width:880px){
 
     html{
         font-size: 55%;
