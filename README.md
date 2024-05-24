@@ -29,6 +29,13 @@ This project is an online flower shop that showcases a variety of fresh and beau
 - **JavaScript**: For interactivity and dynamic elements.
 
 ## Sections Breakdown
+![Screenshot 2024-05-24 221544](https://github.com/kumari-sneha12/flower/assets/144013280/5cd23f58-0980-4ce3-aa78-d02d4d7ea1bf)
+![Screenshot 2024-05-24 221608](https://github.com/kumari-sneha12/flower/assets/144013280/a9159f44-0704-447f-a7a5-f104ec35171c)
+![Screenshot 2024-05-24 221630](https://github.com/kumari-sneha12/flower/assets/144013280/718f505f-ec34-4f56-80b7-5c40acd55a89)
+![Screenshot 2024-05-24 221647](https://github.com/kumari-sneha12/flower/assets/144013280/c59f1435-bbdf-4572-ba79-3f1f470e3727)
+![Screenshot 2024-05-24 221704](https://github.com/kumari-sneha12/flower/assets/144013280/0d921fca-c538-4066-9394-4f59ad42d565)
+![Screenshot 2024-05-24 222338](https://github.com/kumari-sneha12/flower/assets/144013280/4e3ced9f-cdca-4f75-b6f4-57d18475a47a)
+
 
 ### Header Section
 - **Logo**: Displays the website's name, "Flower."
